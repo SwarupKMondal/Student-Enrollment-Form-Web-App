@@ -99,5 +99,5 @@ If roll number is valid and then we can enter details of student
   
 
   --------------------
-## Hope You Like the Project ❤️❤️❤️
+## Thanks
 
